@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/newsLetter/static/css/main.30fd0c1d.css",
-    "main.js": "/newsLetter/static/js/main.4a97e07c.js",
-    "static/media/ProximaNovaFont.otf": "/newsLetter/static/media/ProximaNovaFont.7bc9ce404c297c24f210.otf",
-    "index.html": "/newsLetter/index.html",
-    "main.30fd0c1d.css.map": "/newsLetter/static/css/main.30fd0c1d.css.map",
-    "main.4a97e07c.js.map": "/newsLetter/static/js/main.4a97e07c.js.map"
+    "main.css": "/news-letter/static/css/main.2228e303.css",
+    "main.js": "/news-letter/static/js/main.f4db1c22.js",
+    "static/media/me.jpg": "/news-letter/static/media/me.8508e709dd52ec7c4526.jpg",
+    "static/media/ProximaNovaFont.otf": "/news-letter/static/media/ProximaNovaFont.7bc9ce404c297c24f210.otf",
+    "index.html": "/news-letter/index.html",
+    "main.2228e303.css.map": "/news-letter/static/css/main.2228e303.css.map",
+    "main.f4db1c22.js.map": "/news-letter/static/js/main.f4db1c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.30fd0c1d.css",
-    "static/js/main.4a97e07c.js"
+    "static/css/main.2228e303.css",
+    "static/js/main.f4db1c22.js"
   ]
 }
