@@ -1,0 +1,38 @@
+.wrap {
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: 300;
+    align-items: center;
+}
+
+.contactInfo {
+    display: flex;
+    flex-direction: column; 
+}
+
+.contactPhone {
+    font-size: 40px;
+    color: #004fec;
+}
+
+.contactName {
+    border-left: solid 3px #004fec;
+    width: 150px;
+    padding-left: 15px;
+    font-weight: 700;
+}
+
+.contactLink:hover {
+    text-decoration: none;
+    color: #004fec;
+}
+
+.contactImg {
+    width: 300px;
+}
+
+.react {
+    color: #004fec;
+}

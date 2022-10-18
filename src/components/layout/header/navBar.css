@@ -1,0 +1,34 @@
+.header {
+    justify-content: space-between;
+    display: flex;
+    gap: 40px;
+    padding: 38px;
+}
+
+.nav {
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+}
+
+.logo {
+    font-size: 25px;
+    padding-top: 8px;
+    font-weight: 700;
+}
+
+.navItem {
+    font-size: 18px;
+    display: block;
+    position: relative;
+    text-decoration: none;
+} 
+
+.navItem:hover {
+    color:#004fec;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}

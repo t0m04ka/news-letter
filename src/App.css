@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('../public/fonts/ProximaNovaFont.otf') format('opentype');
+}
+
+.App {
+    width: 1110px;
+    margin: 0 auto;
+    color: #333D51;
+	font-family: 'Proxima Nova', sans-serif;
+}
+
+a, button {
+    text-decoration: none;
+    color: #333D51;
+	font-family: 'Proxima Nova', sans-serif;
+}
