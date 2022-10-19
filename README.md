@@ -1,2 +1,2 @@
 # news-letter
- website for news
+ News single page application rendering data from NewsAPI. Built using ReactJS(React Hooks and Routers),HTML,CSS.
