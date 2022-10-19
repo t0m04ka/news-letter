@@ -14,7 +14,7 @@ export function Contact() {
                     <p>ES5, ES6, <span className='react'>React</span></p>
                 </div>
             </div>
-            <img className="contactImg" src={Image}/>
+            <img className="contactImg" alt='' src={Image}/>
         </div>
     )
 } 
